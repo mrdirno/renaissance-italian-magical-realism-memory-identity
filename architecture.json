@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-magical-realism-memory-identity",
+  "title": "The Polite Ghost of a Lemon Cake",
+  "tagline": "In a city that trades its past, a rememberer must navigate the dangerous market of stolen sensation to reclaim the very fabric of his identity.",
+  "target_words": 71823,
+  "actual_words": 71823,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Memory as Commodity",
+    "The Erosion of Identity",
+    "Sensory Inheritance",
+    "The Burden of Perfect Recall"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Taste of a Sold Memory",
+      "words": 5985
+    },
+    {
+      "ch": 2,
+      "title": "The Tapestry of Neptune's Wedding",
+      "words": 5985
+    },
+    {
+      "ch": 3,
+      "title": "A Cathedral of Forgotten Thought",
+      "words": 5985
+    },
+    {
+      "ch": 4,
+      "title": "The Quarter of Rust and Hemp",
+      "words": 5985
+    },
+    {
+      "ch": 5,
+      "title": "The Staircase of Hollowed Steps",
+      "words": 5985
+    },
+    {
+      "ch": 6,
+      "title": "A Raptor of Stolen Sentiment",
+      "words": 5985
+    },
+    {
+      "ch": 7,
+      "title": "The Gutter for Overflowing Souls",
+      "words": 5985
+    },
+    {
+      "ch": 8,
+      "title": "The Cacophony of a Returned Life",
+      "words": 5985
+    },
+    {
+      "ch": 9,
+      "title": "The Invitation in Thin Air",
+      "words": 5985
+    },
+    {
+      "ch": 10,
+      "title": "The Bloom of Fractured Stone",
+      "words": 5985
+    },
+    {
+      "ch": 11,
+      "title": "A City Breathing Wrong",
+      "words": 5985
+    },
+    {
+      "ch": 12,
+      "title": "The Quiet Center of the Mind",
+      "words": 5985
+    }
+  ]
+}
